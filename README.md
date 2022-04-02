@@ -55,7 +55,5 @@ Now, we can open RStudio and create new script and start data analysis journey.
 
 * R code [here](https://github.com/HazemMancy/Bike-Share-Capstone/blob/main/BikeShare.r)
 * RMarkdown code [here](https://github.com/HazemMancy/Bike-Share-Capstone/blob/main/Cyclistic%20Data%20Analysis%20Project%20-%20Full%20Report.rmd)
-* Full Report as pdf [here]()
-* Full Report as html [here](https://github.com/HazemMancy/Bike-Share-Capstone/blob/main/Cyclistic-Data-Analysis-Project---Full-Report.html)
-
+* Full Report [here](https://hazemmancy.github.io/Bike-Share-Capstone/)
 
