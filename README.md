@@ -22,7 +22,36 @@ From these questions, the priority-1 task in this project is to identify the dif
 usage between annual members and casual riders. Then, use those differences to figure out 
 how to keep the existing and attract new annual members to maximize Cyclistic’s profit.
 
-> ## Files
+> ## Data Source
+Data used is the last 12 months data of ride trips made by casual and member riders. The links to data are below:
+
+* [March-2021](https://divvy-tripdata.s3.amazonaws.com/202103-divvy-tripdata.zip)
+
+* [April-2021](https://divvy-tripdata.s3.amazonaws.com/202104-divvy-tripdata.zip)
+
+* [May-2021](https://divvy-tripdata.s3.amazonaws.com/202105-divvy-tripdata.zip)
+
+* [June-2021](https://divvy-tripdata.s3.amazonaws.com/202106-divvy-tripdata.zip)
+
+* [July-2021](https://divvy-tripdata.s3.amazonaws.com/202107-divvy-tripdata.zip)
+
+* [August-2021](https://divvy-tripdata.s3.amazonaws.com/202108-divvy-tripdata.zip)
+
+* [September-2021](https://divvy-tripdata.s3.amazonaws.com/202109-divvy-tripdata.zip)
+
+* [October-2021](https://divvy-tripdata.s3.amazonaws.com/202110-divvy-tripdata.zip)
+
+* [November-2021](https://divvy-tripdata.s3.amazonaws.com/202111-divvy-tripdata.zip)
+
+* [December-2021](https://divvy-tripdata.s3.amazonaws.com/202112-divvy-tripdata.zip)
+
+* [January-2022](https://divvy-tripdata.s3.amazonaws.com/202201-divvy-tripdata.zip)
+
+* [February-2022](https://divvy-tripdata.s3.amazonaws.com/202202-divvy-tripdata.zip)
+
+Now, we can open RStudio and create new script and start data analysis journey.
+
+> ## Project Final Files
 
 * R code [here](https://github.com/HazemMancy/Bike-Share-Capstone/blob/main/BikeShare.r)
 * RMarkdown code [here](https://github.com/HazemMancy/Bike-Share-Capstone/blob/main/Cyclistic%20Data%20Analysis%20Project%20-%20Full%20Report.rmd)
