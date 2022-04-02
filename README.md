@@ -1,4 +1,4 @@
-# Cyclistic Data Analysis Project - Full Report
+# Cyclistic Data Analysis Project - Google Data Analytics Capstone Project
 
 > ## Overview
 
